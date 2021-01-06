@@ -1,0 +1,22 @@
+body {
+
+line-height: 1.6; /* minimum 1.4 so i choosed 1.6 becoz it's recommended*/   
+
+margin: 50px auto; /* to not hit the side of the browser*/
+
+padding: 0 10px;  /* to generate some space around the text*/
+
+font-size: 19px;  /* more than 16px */
+
+max-width: 640px; /* it's around 65 characters */
+
+color:#444; /* Yeah a little less contrast !*/
+
+}
+
+
+
+h1,h2,h3{
+
+    line-height: 1.2; /* less than 1.4 as you said */
+}
