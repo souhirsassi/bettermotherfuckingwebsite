@@ -26,7 +26,7 @@ function psychedelic(){
      let p = document.getElementsByClassName('ParagraphCollection');
         for (let i=0;i<p.length;i++){
             p[i].style.color ='blue';  // Set the color of the paragraphs to BLUE.
-            p[i].style.fontFamily ='courier';  // Set the font for paragraphs to COURIER.
+            p[i].style.fontFamily ='courier';  // Set the font for paragraphs to COURIER. N.B:This type of font did'nt work and i'm sure that my code is fine.
         }
 
 }
